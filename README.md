@@ -6,8 +6,12 @@ First for all you need Node JS and npm installed on your device which can be ins
 After you have it installed run the following code on your terminal or command prompt.
 
 `git clone https://github.com/apurbadh/ApurbaMail.git`
+
 `cd ApurbaMail`
+
 `npm install`
+
 `npm run build`
+
 `npm run start`
 
