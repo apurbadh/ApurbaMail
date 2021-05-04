@@ -25,7 +25,7 @@ npm install
 npm run build
 ```
 
-#### If you want to run the development version(Not Recommended)
+#### If you want to run the development version (Not Recommended)
 ```
 npm run dev
 ```
